@@ -1,0 +1,17 @@
+img{
+    border:5px;
+	border-style:solid;
+	border-width:5px;
+	border-color:red;
+    border-radius:10px;
+}
+
+
+h1{
+	color: blue;
+	text-shadow:5px 5px 5px green;
+}
+body{
+	background-color:red;
+	color:aqua;
+}
